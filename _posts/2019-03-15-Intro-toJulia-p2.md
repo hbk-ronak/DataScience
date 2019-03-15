@@ -20,7 +20,7 @@ You can find part one of this tutorial [here](http://datascience.ronakshah.xyz/I
     c. Arrays
 8. Loops
 
-In this notebook we'll discuss the following:
+## In this notebook we'll discuss:
 
 1. Conditionals
 2. Functions
@@ -171,7 +171,7 @@ f3(111)
 
 *"If it quacks like a duck, it's a duck."*
 
-fancy word for saying the Julia, unlike C++ will work on any input data type till it makes senses.
+Fancy word for saying that Julia, unlike C++ will work on any input data type till it makes sense.
 
 
 ```julia
